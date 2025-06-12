@@ -44,7 +44,6 @@ class TestUrbanRoutes:
         # Adicionar em S8
         number_of_ice_creams = 2
         for count in range(number_of_ice_creams):
-
         print("função criada para definir o pedido do sorvete")
         pass
 
